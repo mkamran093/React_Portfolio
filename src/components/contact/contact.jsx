@@ -51,6 +51,10 @@ const Contact = () => {
               placeholder="Your Message Here..."
             ></textarea>
           </div>
+
+          <a href="#" className="btn">
+            Send Message
+          </a>
         </form>
       </div>
     </section>
