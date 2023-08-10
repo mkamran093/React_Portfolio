@@ -1,4 +1,4 @@
-const Data = [
+export default Data = [
   {
     id: 1,
     category: "education",

@@ -1,5 +1,5 @@
 import React from "react";
-import "./resume.css";
+import "./Resume.css";
 import Data from "./Data";
 import Card from "./Card";
 
@@ -27,7 +27,7 @@ const Resume = () => {
 
         <div className="timeline grid">
           {Data.map((val, index) => {
-            if (val.category === "education") {
+            if (val.category === "experience") {
               return (
                 <Card
                   key={index}
