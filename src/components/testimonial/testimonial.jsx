@@ -12,18 +12,18 @@ const data = [
   {
     id: 1,
     image: Image1,
-    title: "John Doe",
-    subtitle: "Product designer at Dribble",
+    title: "Fahad Shehzad",
+    subtitle: "CTO at FasTech Systems",
     comment:
-      "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍",
+      "Kamran is a very Passionate individual and very serious toward his career. Good luck! 😉",
   },
   {
     id: 2,
     image: Image2,
-    title: "John Doe",
-    subtitle: "Product designer at Dribble",
+    title: "Shakir Ali",
+    subtitle: "Web Developer at FasTech System",
     comment:
-      "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍",
+      "It was a good experience with him at internship. He is a very good learner! 👍",
   },
 ];
 

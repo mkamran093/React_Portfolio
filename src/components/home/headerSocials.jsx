@@ -27,11 +27,11 @@ const HeaderSocials = () => {
         <i className="fa-brands fa-twitter"></i>
       </a>
       <a
-        href="https://www.dribbble.com/"
+        href="https://www.linkedin.com/in/muhammad-k-76607124b/"
         className="home_social-link"
         target="_blank"
       >
-        <i className="fa-brands fa-dribbble"></i>
+        <i className="fa-brands fa-linkedin"></i>
       </a>
     </div>
   );
