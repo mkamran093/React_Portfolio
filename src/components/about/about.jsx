@@ -19,7 +19,11 @@ const About = () => {
               in a professional setting with related Internships and job
               opportunities.
             </p>
-            <a href="#" className="btn">
+            <a
+              href="src/components/about/CV - Muhammad Kamran.pdf"
+              download={true}
+              className="btn"
+            >
               Download CV
             </a>
           </div>
@@ -61,7 +65,7 @@ const About = () => {
         </div>
       </div>
 
-      <AboutBox />
+      {/* <AboutBox /> */}
     </section>
   );
 };

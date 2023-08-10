@@ -10,21 +10,21 @@ const data = [
     image: Image1,
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "I design and maintain Websites and Web Applications while ensuring functionality and visual appeal.",
   },
   {
     id: 2,
     image: Image2,
     title: "Blockchain",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "I analyze and interpret data using statistical techniques and ML algorithms to extract valuable insights.",
   },
   {
     id: 3,
     image: Image3,
     title: "Data Science",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "I design and develop blockchain solutions, including smart contracts and decentralized applications.",
   },
 ];
 
