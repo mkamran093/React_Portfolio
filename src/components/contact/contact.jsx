@@ -4,13 +4,13 @@ import "./contact.css";
 const Contact = () => {
   return (
     <section className="contact container section" id="contact">
-      <h2 className="section_title">Get in Touch</h2>
+      <h2 className="section_title">Get In Touch</h2>
 
       <div className="contact_container grid">
         <div className="contact_info">
-          <h3 className="contact_title">Let's Talk about a topic</h3>
+          <h3 className="contact_title">Let's have a Talk!</h3>
           <p className="contact_details">
-            Don't like form? Send me an email. 👋
+            Don't like forms? Send me an email. 👋
           </p>
         </div>
 
@@ -28,34 +28,33 @@ const Contact = () => {
               <input
                 type="email"
                 className="contact_form-input"
-                placeholder="Email address"
+                placeholder="Email Address"
               />
-            </div>
-
-            <div className="contact_form-div">
-              <input
-                type="text"
-                className="contact_form-input"
-                placeholder="Subject"
-              />
-            </div>
-
-            <div className="contact_form-div contact_form-area">
-              <textarea
-                name=""
-                id=""
-                cols="30"
-                rows="10"
-                className="contact_form-input"
-                placeholder="Your Message here..."
-              ></textarea>
             </div>
           </div>
-          <button className="btn">Send Message</button>
+
+          <div className="contact_form-div">
+            <input
+              type="text"
+              className="contact_form-input"
+              placeholder="Subject"
+            />
+          </div>
+
+          <div className="contact_form-div contact_form-area">
+            <textarea
+              name=""
+              id=""
+              cols="30"
+              rows="10"
+              className="contact_form-input"
+              placeholder="Your Message Here..."
+            ></textarea>
+          </div>
         </form>
       </div>
     </section>
   );
 };
 
-export default Contact;
+export default Contact; //
